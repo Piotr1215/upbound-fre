@@ -25,7 +25,7 @@ spec:
             properties:
               id:
                 type: string
-                description: ID of this Cluster that other objects will use to refer to it.
+                description: ID of this Cluster that other objects will use to refer to it...
               parameters:
                 type: object
                 description: Cluster configuration parameters.
